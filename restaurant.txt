@@ -4,3 +4,5 @@ Welcome to CDW's Restaurant,
 Menu:
 Briyini
 Curd rice
+
+Thanks :-)
